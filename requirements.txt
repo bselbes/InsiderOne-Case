@@ -1,0 +1,3 @@
+selenium>=4.12
+pytest
+webdriver-manager
